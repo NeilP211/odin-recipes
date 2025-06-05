@@ -1,0 +1,1 @@
+The current project is to build a basic recipe website. this website will contain whatever the odin project tells me to add to it hopefully its is really fun and I learn stuff along the way lol.
