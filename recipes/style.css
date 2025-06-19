@@ -1,0 +1,22 @@
+.headers{
+    text-align: center;
+    align-items: center;
+    background-color: rgb(58, 165, 42);
+
+}
+li{
+    background-color: rgb(18, 18, 189);
+    width: 200px;
+    color: brown;
+    border: 50px;
+    border-color: black;
+    box-sizing: content-box;
+    margin-bottom: 50px;
+}
+/* this is specific to jus the fat its an id*/
+#fat{
+    color: rgb(129, 129, 15);
+}   
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
